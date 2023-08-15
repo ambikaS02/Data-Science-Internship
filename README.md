@@ -2,7 +2,8 @@
 
 <center>
   
- ![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/07c86fa3-3460-4780-aec1-6bea828f0428)
+ ![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/9106bf7a-bf29-4374-ab75-217f87e7298a)
+
 
 </center>
 

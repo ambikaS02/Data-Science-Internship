@@ -1,6 +1,13 @@
 # OIBSIP
-
+<center>
+      
 ![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/4df9b7bf-db99-433d-8318-171c7860cc0c)
+
+
+
+</center>
+<br>
+
 ![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/6f942057-5f7e-49cd-a29e-d26995c1fd6b)
 
 

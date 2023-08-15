@@ -24,8 +24,8 @@
 
 
 <h1>Task 3</h1>
+![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/0f864592-a957-4cd7-9a3a-6d9621f8c43a)
 
-![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/312f88ec-27f6-43cb-86f9-ea941ef3e92d)
 
 <br>
 <h4>

@@ -2,7 +2,9 @@
 
 
 <p align="center">
-  <img src="![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/813c0819-cabf-47a8-b4a6-04ef1787a3a5)
+  <img src="
+    
+  ![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/813c0819-cabf-47a8-b4a6-04ef1787a3a5)
 " alt="Centered Image">
 </p>
 

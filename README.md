@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/AmbikaSubramanian/OIBSIP/raw/main/assets/139529989/0ff37a39-cddf-446d-b9d2-75008833eee1.jpg" alt="Centered Image">
+  <img src="![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/813c0819-cabf-47a8-b4a6-04ef1787a3a5)
+" alt="Centered Image">
 </p>
 
 

@@ -3,7 +3,8 @@
       
 <center>     
       
-![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/ef029b77-d33b-42e1-a1ad-b5431a2fa5ea)
+![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/0ff37a39-cddf-446d-b9d2-75008833eee1)
+
  
 </center>
 

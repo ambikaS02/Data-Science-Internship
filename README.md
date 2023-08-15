@@ -1,12 +1,9 @@
 # OIBSIP
 
-      
-<center>     
-      
-![image](https://github.com/AmbikaSubramanian/OIBSIP/assets/139529989/0ff37a39-cddf-446d-b9d2-75008833eee1)
 
- 
-</center>
+<p align="center">
+  <img src="https://github.com/AmbikaSubramanian/OIBSIP/raw/main/assets/139529989/0ff37a39-cddf-446d-b9d2-75008833eee1.jpg" alt="Centered Image">
+</p>
 
 
 

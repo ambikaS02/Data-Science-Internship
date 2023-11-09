@@ -30,8 +30,8 @@
 
 
 <br>
-<h4>
-  &nbsp;&nbsp;csv used-Iris.csv<br></h4>
+<h1>
+  &nbsp;&nbsp;csv used-Iris.csv<br></h1>
   <br> <br>
 
 
@@ -44,8 +44,8 @@
 
 
 <br>
-<h4>
-  &nbsp;&nbsp;csv used-Unemployment_Rate_upto_11_2020.csv<br></h4>
+<h1>
+  &nbsp;&nbsp;csv used-Unemployment_Rate_upto_11_2020.csv<br></h1>
   <br> <br>
   
 
@@ -56,7 +56,7 @@
 
 
 <br>      
-<h4>csv used-Advertising.csv<br></h4>
+<h1>csv used-Advertising.csv<br></h1>
   <br> <br>
 
 
